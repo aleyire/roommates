@@ -1,5 +1,7 @@
 ## Roommates
-Servidor creado con node que sirve una interfaz HTML basado en el registro de gastoa entre rommates. Este desafío es una prueba por lo que no esta en desarrollo.
+Servidor creado con node que sirve una interfaz HTML basado en el registro de gastoa entre rommates. 
+
+# Proyecto incompleto!!!
 
 ### Materia aplicada
 - Manipular archivos con File System
