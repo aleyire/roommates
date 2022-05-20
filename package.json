@@ -1,0 +1,17 @@
+{
+  "name": "roommates",
+  "version": "1.0.0",
+  "description": "Servidor creado con node que sirve una interfaz HTML basado en el registro de gastoa entre rommates. Este desafío es una prueba por lo que no esta en desarrollo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "http": "^0.0.1-security",
+    "url": "^0.11.0",
+    "uuid": "^8.3.2"
+  }
+}
