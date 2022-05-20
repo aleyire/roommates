@@ -1,7 +1,7 @@
 ## Roommates
 Servidor creado con node que sirve una interfaz HTML basado en el registro de gastoa entre rommates. 
 
-# Proyecto incompleto!!!
+# Proyecto incompleto!!! :construction:
 
 ### Materia aplicada
 - Manipular archivos con File System
@@ -19,3 +19,5 @@ Servidor creado con node que sirve una interfaz HTML basado en el registro de ga
 - Eliminar gastos del historial.
 
 ### Visualización
+
+![] (https://github.com/aleyire/roommates/blob/main/img/preview.png)
